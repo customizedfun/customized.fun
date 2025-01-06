@@ -1,4 +1,6 @@
 <div align="center">
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/e2e94015-e7a8-4b1b-9de8-6c79f708c9ce" alt="Confess Sol Logo" width="200" />
   <h1>customized.fun</h1>
   <p>Create and customize AI agents with unique personalities, expertise, and behaviors.</p>
 
