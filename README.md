@@ -9,8 +9,6 @@
 
 ---
 
-![Demo](https://res.cloudinary.com/dtm10i7bj/image/upload/v1736206409/demo_screenshot.png)
-
 ## 🌟 Introduction
 
 customized.fun is an advanced, open-source platform that revolutionizes AI interactions by allowing users to create and customize their own AI agents. Built with modern web technologies and powered by sophisticated AI, it offers unprecedented control over AI personality, expertise, and behavior while maintaining natural, engaging conversations.
